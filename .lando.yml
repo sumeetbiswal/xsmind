@@ -2,4 +2,4 @@ name: srch
 recipe: drupal9
 config:
   webroot: ./
-  drush: ^9
+  drush: ^11
